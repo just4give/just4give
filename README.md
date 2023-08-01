@@ -26,7 +26,7 @@ Welcome to my coding sanctuary! I'm a passionate programmer with an insatiable c
 ## 🌐 Let's Connect
 I'm excited to connect and collaborate with fellow developers, dreamers, and visionaries. Let's create something extraordinary together! You can reach me through the following channels:
 
-- GitHub: [github.com/just4give](https://github.com/just4give)
+- Medium: [mithundotdas.medium.com](https://mithundotdas.medium.com/)
 - LinkedIn: [linkedin.com/in/connectmithundas](https://www.linkedin.com/in/connectmithundas)
 - Personal Website: [iammithun.link](https://iammithun.link)
 
